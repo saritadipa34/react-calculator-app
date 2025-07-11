@@ -1,7 +1,8 @@
 
 const ResultBox=()=>{
     return(
-        <div>
+        <div className="bg-yellow-200 h-22 w-full">
+
             result
         </div>
     )

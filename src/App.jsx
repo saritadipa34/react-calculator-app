@@ -1,8 +1,10 @@
 
+import Calculator from "./components/Calculator";
+
 const App=()=>{
   return(
-    <div className="text-green-500">
-      hhj
+    <div>
+      <Calculator />
     </div>
   )
 }
